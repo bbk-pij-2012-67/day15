@@ -1,0 +1,24 @@
+userInput = 0
+Execution order:
+01 - 21
+24 - 25
+
+userInput = 2
+Execution order:
+01 - 17
+24 - 25
+
+userInput = 4
+Execution order:
+01 - 13
+24 - 25
+
+userInput = 6
+Execution order:
+1 - 11
+24 - 25
+
+Question 2
+
+The code in question is fault as the first catch block will catch all exceptions.
+The second catch block will never catch an exception. Such an error is caught by the compiler.

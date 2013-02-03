@@ -1,0 +1,19 @@
+userInput = 0
+Execution order:
+01 - 21
+24 - 25
+
+userInput = 2
+Execution order:
+01 - 19
+24 - 25
+
+userInput = 4
+Execution order:
+01 - 13
+24 - 25
+
+userInput = 6
+Execution order:
+1 - 11
+24 - 25
